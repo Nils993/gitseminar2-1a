@@ -7,4 +7,4 @@
 
 3 git commit -m “message” – создание коммита.
 
-##git commit  -a -m “message” –  обьединяет функцию 2 и 3 в одну команду
+##git commit  -am “message” –  обьединяет функцию 2 и 3 в одну команду
